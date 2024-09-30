@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="tinselcrm_employee"
+        android:label="TinselCRM Employee"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
